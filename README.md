@@ -1,2 +1,1 @@
-# PLC
-Codes
+These are my PLC projects and its' simulation files. .mwp extension files must open with "Siemens step-7 microWIN". .awl extension files must open with "simulator" application. The last file must open with "PC_SIMU" application.
